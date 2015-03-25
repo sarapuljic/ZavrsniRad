@@ -1,0 +1,189 @@
+﻿body{
+	background-color:#D1E3F7;
+}
+
+#header{
+	width:1200px;
+	margin:auto;
+	background-color:#BFBFBF;
+	vertical-align: middle;
+	border-style: ridge;
+	letter-spacing: 1em;
+	text-align:center;
+	border: solid black 1.5px;
+	box-shadow: 1px 1px 1px 1px #343434;
+	margin-top:20px;
+	font-family: "Century Gothic";
+	color:black;
+}
+
+#background{
+	width:1200px;
+	margin:auto;
+	margin-top:20px;
+	border: solid black 1.5px;
+	background-color:#BFBFBF;
+	box-shadow: 1px 1px 1px 1px #343434;
+	
+}
+
+#header a{
+	text-decoration:none;
+	color:black;
+	
+}
+
+h1{
+	font-family: "Century Gothic";
+	font-weight: bolder;
+	font-size: xx-large;
+}
+
+h2{
+	text-align:center;
+}
+
+#navigation{
+	font-family:"Century Gothic";
+	color:black;
+	display:inline;
+	text-align:center;
+	font-size:large;
+	font-weight:lighter;
+}
+
+#navigation a{
+	margin:0 20px;
+	color:black;
+	text-decoration:none;
+}
+
+#navigation a:hover{
+	color:#1974D8;
+
+}
+
+.nav{
+	display:inline;
+}
+
+
+#search{
+	margin-top: 50px;
+	font-family: "Century Gothic";
+	text-align: center;
+	font-size: xx-large;
+}
+
+
+#poslovi{
+	width:500px;
+	text-align:center;
+	margin:auto;
+	margin-top:20px;
+	font-family: "century Gothic";
+	font-weight: bolder;
+	border-style: ridge;
+}
+
+#aktualni_poslovi{
+	font-family: "Century Gothic";
+	font-size: large;
+	text-align:center;	
+	margin:auto;
+	border-style: ridge;
+	width:500px;
+	margin-bottom:20px;
+}
+
+#aktualni_poslovi a{
+	text-decoration:none;
+	color: black;
+
+	
+}
+
+#aktualni_poslovi a:hover{
+	color:#0000FF;
+	font-weight:bolder;
+
+}
+
+span{
+	color:blue;
+}
+
+li{
+	list-style-type: none;
+
+}
+
+#jobs{
+	background-color:#BFBFBF;
+	color: black;
+	border-style:ridge;
+	font-family: "Century Gothic";
+	font-size: medium;
+	padding-left:20px;
+	padding-right:20px;
+	margin-bottom:20px;
+	margin-left:65px;
+	width:450px;
+	text-align:center;
+	border: solid black 1.5px;
+	box-shadow: 1px 1px 1px 1px #343434;
+
+}
+
+p{
+	font-weight:bold;
+}
+
+
+#prijavi_se{
+	background-color:#BFBFBF;
+	font-family: "Century Gothic";
+	color: black;
+	width:550px;
+	border-style:ridge;
+	margin-top:50px;
+	margin:auto;
+	margin-top:160px;
+	margin-bottom:160px;
+	text-align:center;
+	padding-bottom:20px;
+
+}
+
+#registriraj_se{
+	background-color:#BFBFBF;
+	font-family: "Century Gothic";
+	color: black;
+	width:550px;
+	border-style:ridge;
+	margin-top:50px;
+	margin:auto;
+	margin-top:110px;
+	margin-bottom:110px;
+	text-align:center;
+	padding-bottom:20px;
+
+}
+
+
+#footer{
+	width:1200px;
+	margin:auto;
+	background-color:#BFBFBF;
+	vertical-align: middle;
+	border-style: ridge;
+	text-align:center;
+	border: solid black 1.5px;
+	background-color:#BFBFBF;	
+	box-shadow: 1px 1px 1px 1px #343434;
+	margin-top:20px;
+	color:black;
+	text-align: right;
+	font-family: "Century Gothic";
+	font-size: xx-small;
+}
