@@ -24,13 +24,11 @@
 	border: solid black 1.5px;
 	background-color:#BFBFBF;
 	box-shadow: 1px 1px 1px 1px #343434;
-	
 }
 
 #header a{
 	text-decoration:none;
 	color:black;
-	
 }
 
 h1{
@@ -60,13 +58,11 @@ h2{
 
 #navigation a:hover{
 	color:#1974D8;
-
 }
 
 .nav{
 	display:inline;
 }
-
 
 #search{
 	margin-top: 50px;
@@ -74,7 +70,6 @@ h2{
 	text-align: center;
 	font-size: xx-large;
 }
-
 
 #poslovi{
 	width:500px;
@@ -99,14 +94,11 @@ h2{
 #aktualni_poslovi a{
 	text-decoration:none;
 	color: black;
-
-	
 }
 
 #aktualni_poslovi a:hover{
 	color:#0000FF;
 	font-weight:bolder;
-
 }
 
 span{
@@ -132,13 +124,11 @@ li{
 	text-align:center;
 	border: solid black 1.5px;
 	box-shadow: 1px 1px 1px 1px #343434;
-
 }
 
 p{
 	font-weight:bold;
 }
-
 
 #prijavi_se{
 	background-color:#BFBFBF;
@@ -152,7 +142,6 @@ p{
 	margin-bottom:160px;
 	text-align:center;
 	padding-bottom:20px;
-
 }
 
 #registriraj_se{
@@ -167,9 +156,7 @@ p{
 	margin-bottom:110px;
 	text-align:center;
 	padding-bottom:20px;
-
 }
-
 
 #footer{
 	width:1200px;
